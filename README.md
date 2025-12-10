@@ -1,7 +1,7 @@
 # UFC Rankings Scraper
 
 <h2>Overview</h2> 
-The UFC Rankings Scraper is a Python script that scrapes the latest UFC rankings from the official UfC website and stores them in a CSV file. This tool is useful for MMA analysts, enthusiasts, and data scientists who want to track rankings over time or analyze fighter trends. 
+The UFC Rankings Scraper is a Python script that scrapes the latest UFC rankings from the official UFC website and stores them in a CSV file. This tool is useful for MMA analysts, enthusiasts, and data scientists who want to track rankings over time or analyze fighter trends. 
 
 <h2>Disclaimer</h2>
 This script is for educational purposes only. By using this code, you agree to compy with UFC's Terms of Use. The author does not own or claim any rights to the data obtained from UFC.com. Use this script responsibly and at your own risk. 
